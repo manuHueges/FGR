@@ -1,0 +1,21 @@
+# Spring framework
+org.springframework.asm-4.*.jar
+org.springframework.beans-4.*.jar
+org.springframework.context-4.*.jar
+org.springframework.core-4.*.jar
+org.springframework.expression-4.*.jar
+org.springframework.oxm-4.*.jar
+org.springframework.web.servlet-4.*.jar
+org.springframework.web-4.*.jar
+
+# JAXB 2
+jaxb-api.jar
+jaxb-impl.jar
+
+# JSTL
+jstl.jar
+standard.jar
+
+# logging
+commons-logging.jar
+log4j-*.jar
